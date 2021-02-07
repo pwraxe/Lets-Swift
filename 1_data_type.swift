@@ -1,3 +1,7 @@
+var :-> for once initialized , can change variable data later 
+let :-> for once initialized , cannot change variable data (Constant)
+
+
 Sign Integer 
   Int ==  Int64  (both are same)
       - Int8     1 byte =  8 bit (-128 to 127)        
