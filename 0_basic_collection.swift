@@ -49,22 +49,24 @@ Math Calculation
        
 -------------------------------------------------------------------------------------
 
+-Three Double Quotation Marks
 if you merge any string in three double quote then 
 output will print as it is as you mention in three double quote
 
 var name : String = "Akshay"
 var age : Int = 24
-<code>
+
 let bio = """
 
     Hi, 
-        I am \(name),
+        "I am \(name)",
         My age is 
                     \(age)
 
 """
 print(bio)
-</code>
+
+-------------------------------------------------------------------------------------
 
 
 
